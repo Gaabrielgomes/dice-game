@@ -1,1 +1,1 @@
-# dice-game
+Dice game (refresh the page to play)
